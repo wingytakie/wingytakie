@@ -1,0 +1,16 @@
+{
+  "rln5": [
+    {
+      "key": "First",
+      "value": 100
+    },
+    {
+      "key": "Second",
+      "value": "lala"
+    },
+    {
+      "key": "Last",
+      "value": "Mixed"
+    }
+  ]
+}
